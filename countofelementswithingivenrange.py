@@ -16,3 +16,5 @@ i = 6
 j = 9
 print(countInRange(arr, n, i, j)) 
 
+#output:3
+#       3       
